@@ -1,6 +1,7 @@
 Quiz Game using Python and Object-Oriented Programming Concepts
 
 This project is a simple implementation of a quiz game using Python and Object-Oriented Programming (OOP) concepts. The game involves asking the user a series of questions and keeping track of their score. The user must select an answer from a list of options and will be notified whether their answer was correct or not.
+![Screenshot (5)](https://user-images.githubusercontent.com/87391223/229872316-8500d644-54ec-46b6-9e4f-15d476b19b02.png)
 
 Quiz Game Screenshot
 Installation
@@ -19,8 +20,9 @@ How to Play
 Project Structure
 
     main.py - the main Python script for the Quiz Game.
+    data.py - contains a list of questions
     question.py - contains the Question class, which represents a single question and its options.
-    quiz.py - contains the Quiz class, which represents the game and its behavior.
+    quizbrain.py - contains the Quiz class, which represents the game and its behavior.
 
 Contributing
 
