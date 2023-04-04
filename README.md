@@ -5,7 +5,7 @@ This project is a simple implementation of a quiz game using Python and Object-O
 Quiz Game Screenshot
 Installation
 
-    Clone this repository to your local machine using git 
+    Clone this repository to your local machine using git clone https://github.com/GokulBakkiyarasu/QuizGame.git
     Ensure that you have Python 3 installed.
     Run python quiz_game.py to start the game.
 
@@ -18,7 +18,7 @@ How to Play
 
 Project Structure
 
-    quiz_game.py - the main Python script for the Quiz Game.
+    main.py - the main Python script for the Quiz Game.
     question.py - contains the Question class, which represents a single question and its options.
     quiz.py - contains the Quiz class, which represents the game and its behavior.
 
